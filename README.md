@@ -84,16 +84,16 @@ This refactor allowed both the main program and the test cases to work seamlessl
 ---
 
 **Future Improvements**
-# Add due-date calculations and fine system
-# Replace CSV with SQLite or PostgreSQL for better scalability
-# GUI using Tkinter or web version using Flask/Django
+~ Add due-date calculations and fine system
+~ Replace CSV with SQLite or PostgreSQL for better scalability
+~ GUI using Tkinter or web version using Flask/Django
 
 ---
 
 **Author**
 Bhuvaneshwari S
 Final Year BSc Computer Science with AI
-www.linkedin.com/in/bhuvana-sankar - LinkedIn
+www.linkedin.com/in/bhuvana-sankar - LinkedIn, 
 bhuvanasankar643@gmail.com - Mail 
 
 ---
