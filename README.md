@@ -29,7 +29,7 @@ A simple, console-based Library Management System built using **Python** and **C
 
 🗃️ Project Structure
   
-library_project/
+``library_project/
 │
 ├── data/ # Data folder for CSV storage
 │ ├── books.csv # Stores book records
@@ -42,7 +42,7 @@ library_project/
 ├── test_library.py # Test cases written using pytest
 ├── auth.py # Handles registration logic and password hashing
 ├── storage.py # Utility functions to load/save CSV files
-└── README.md # Project documentation (you're here!)
+└── README.md # Project documentation (you're here!)``
 
 ---
 
