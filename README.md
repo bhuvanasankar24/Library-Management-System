@@ -14,7 +14,6 @@ A simple, console-based Library Management System built using **Python** and **C
   - Secure Logout
 
 - 👨‍🎓 **Member Dashboard**
-  - Login with credentials
   - View Borrowed Books
   - Return Books
 
@@ -39,7 +38,7 @@ A simple, console-based Library Management System built using **Python** and **C
 │
 |-- main.py # Entry point for the application
 |-- models.py # Core logic (book/member/loan handling)
-|-- librarian.py # working logic (Add/removw/issue/return/overdue of book)
+|-- librarian.py # working logic (Add/remove/issue/return/overdue of book)
 |-- test_library.py # Test cases using pytest
 |-- auth.py # Member functions (registering member)
 |-- storage.py #utility function (load/ save loans, members, books)
@@ -92,9 +91,9 @@ This refactor allowed both the main program and the test cases to work seamlessl
 
 **Author**
 Bhuvaneshwari S
-Final Year BSc Computer Science with AI
-www.linkedin.com/in/bhuvana-sankar - LinkedIn, 
-bhuvanasankar643@gmail.com - Mail 
+Final Year BSc Computer Science with AI, 
+LinkedIn - www.linkedin.com/in/bhuvana-sankar, 
+Mail - bhuvanasankar643@gmail.com  
 
 ---
 
