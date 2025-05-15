@@ -31,18 +31,18 @@ A simple, console-based Library Management System built using **Python** and **C
   
 library_project/
 │
-├── data/                   # Data folder for CSV storage
-│   ├── books.csv           # Stores book records
-│   ├── members.csv         # Stores member records
-│   └── loans.csv           # Stores loan records
+├── data/ # Data folder for CSV storage
+│ ├── books.csv # Stores book records
+│ ├── members.csv # Stores member records
+│ └── loans.csv # Stores loan records
 │
-├── main.py                 # Entry point for the application (menu system)
-├── models.py               # Core logic for book/member/loan classes
-├── librarian.py            # Functions to add, remove, issue, return, overdue
-├── test_library.py         # Test cases written using pytest
-├── auth.py                 # Handles registration logic and password hashing
-├── storage.py              # Utility functions to load/save CSV files
-└── README.md               # Project documentation (you're here!)
+├── main.py # Entry point for the application (menu system)
+├── models.py # Core logic for book/member/loan classes
+├── librarian.py # Functions to add, remove, issue, return, overdue
+├── test_library.py # Test cases written using pytest
+├── auth.py # Handles registration logic and password hashing
+├── storage.py # Utility functions to load/save CSV files
+└── README.md # Project documentation (you're here!)
 
 ---
 
