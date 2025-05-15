@@ -28,8 +28,9 @@ A simple, console-based Library Management System built using **Python** and **C
 ---
 
 🗃️ Project Structure
-  
-```library_project/
+
+library_project/
+```
 │
 ├── data/ # Data folder for CSV storage
 │ ├── books.csv # Stores book records
