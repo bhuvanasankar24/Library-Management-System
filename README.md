@@ -77,6 +77,7 @@ library_project/
 ---
 
 **Challenges Faced**
+
 One key challenge was making register_member() testable. Initially, all user inputs were inside the function, making it difficult to automate tests. The solution was to split the function:
 register_member() – accepts user inputs via terminal
 register_member_with_data() – accepts direct input for testing
@@ -92,9 +93,13 @@ This refactor allowed both the main program and the test cases to work seamlessl
 ---
 
 **Author**
+
 Bhuvaneshwari S
+
 Final Year BSc Computer Science with AI, 
+
 LinkedIn - www.linkedin.com/in/bhuvana-sankar, 
+
 Mail - bhuvanasankar643@gmail.com  
 
 ---
