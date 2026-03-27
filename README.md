@@ -103,7 +103,7 @@ Final Year BSc Computer Science with AI,
 
 LinkedIn - www.linkedin.com/in/bhuvana-sankar, 
 
-Mail - bhuvanasankar643@gmail.com  
+Mail - bhuvanaasankar241@gmail.com  
 
 ---
 
