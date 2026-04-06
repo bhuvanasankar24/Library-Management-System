@@ -52,7 +52,7 @@ library_project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/bhuvanaasankar24/library-management-system.git
    cd library-management-system
    
 2. **Install dependencies**
